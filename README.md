@@ -23,7 +23,7 @@
 [swarthmore]: https://www.swarthmore.edu
 
 [email]: mailto:skamal1@swarthmore.edu 
-[linkedin]: https://www.linkedin.com/in/sajidkamal//
+[linkedin]: https://www.linkedin.com/in/sajidkamal/
 
 
 
