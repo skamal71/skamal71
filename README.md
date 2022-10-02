@@ -15,6 +15,8 @@
   <img alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  ![c-](https://user-images.githubusercontent.com/85767585/193474130-2d17c021-2f50-4051-8ab5-109576714731.png)
+
  </p>
 
 ## Connect with me:
