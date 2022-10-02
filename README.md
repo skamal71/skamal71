@@ -5,6 +5,7 @@
 - I am a prospective Computer Science & Engineering major at Swarthmore College.
 
 - My best languages is Python.
+- I am an incoming intern at Amazon.com
 
 
 
